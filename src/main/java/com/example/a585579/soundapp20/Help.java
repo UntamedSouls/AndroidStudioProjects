@@ -3,6 +3,8 @@ package com.example.a585579.soundapp20;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+
+
 public class Help extends AppCompatActivity {
 
     @Override
@@ -11,3 +13,5 @@ public class Help extends AppCompatActivity {
         setContentView(R.layout.activity_help);
     }
 }
+
+
